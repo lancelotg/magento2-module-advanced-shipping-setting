@@ -17,5 +17,11 @@
         "psr-4": {
             "Owebia\\AdvancedShippingSetting\\": ""
         }
-    }
+    },
+    "repositories": {
+       "lancelotg/magento2-module-advanced-setting-core": {
+           "type": "vcs",
+           "url": "https://github.com/lancelotg/magento2-module-advanced-setting-core"
+       }
+   },
 }
